@@ -1,3 +1,6 @@
 [submodule "Toydo-List-Client"]
 	path = Toydo-List-Client
 	url = https://github.com/jihunv8/Toydo-List-Client
+[submodule "Toydo-List-Server"]
+	path = Toydo-List-Server
+	url = https://github.com/jihunv8/Toydo-List-Server
