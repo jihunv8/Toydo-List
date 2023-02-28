@@ -32,5 +32,5 @@ https://devpp.notion.site/Toy-do-List-34d7b7cacc954afd9a626b9e491367e5
 ## Todo 수정
 ![update-todo](https://user-images.githubusercontent.com/78804014/221737655-4ab37875-9035-4630-bf6c-5bc6d0b1bec2.gif)
 
-## Todo 
+## Todo 삭제
 ![remove-todo](https://user-images.githubusercontent.com/78804014/221737657-7aaf2083-f7ab-4db4-a577-a48d393dfcd4.gif)
